@@ -4,8 +4,8 @@
   
 ### :star2: Building Connect Four with React  
   
-The assignment was to build [Connect Four] game in React. In addition to [my submission](https://github.com/hm-y/connect-4-via-React), I've been asked some questions in code review, such as:  
+The assignment was to build [Connect Four] game in React. In addition to [my submission](https://github.com/hm-y/connect-4-via-React), I've been asked to implement some other features in code review, such as:  
 - How can we re-implement it for 3 players or bigger board?
 - How can we add an undo feature?
 - How to make it more efficient if played by high volume of people?  
-<img src="ss/connectfour.png" title="Connect Four Bigger Board" width="250"/>
+<img src="screenshots/connectfourbiggerboard.png" title="Connect Four Bigger Board" width="250"/>
