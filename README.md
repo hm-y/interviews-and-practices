@@ -15,4 +15,6 @@ The assignment was to build [Connect Four] game in React. In addition to [my sub
 :rabbit: All rabbits are free!  
 { 'success' : 'great', 'colleague' : 'esteemed', 'efforts' : 'incredible', 'achievement' : 'unlocked', 'rabbits' : 'safe', 'foo' : 'win!' }
   
+*Questions renamed and simplified.*  
+
 <img src="screenshots/googlefoobar.png" title="Connect Four Bigger Board" width="750"/>  
