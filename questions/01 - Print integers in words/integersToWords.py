@@ -1,4 +1,4 @@
-# Question 1:
+# Question:
 # Given an integer between 1-999, print it in words
 # Ex: 419 => Four Hundred Nineteen
 
